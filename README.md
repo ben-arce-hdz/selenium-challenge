@@ -77,7 +77,7 @@ Open the CucumberRunner class and execute it - right click run as testng class.
 
 ### Reporting
 
-![Report](target/image/report.png)
+![Report](target/image/Report.png)
 
 ## Author
 Feel free to ask [Benjamin Arce](benjamin_arce1991@hotmail.com) if you need some support or there are any questions.
