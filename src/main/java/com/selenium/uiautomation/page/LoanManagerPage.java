@@ -1,6 +1,5 @@
 package com.selenium.uiautomation.page;
 
-import com.google.common.util.concurrent.Uninterruptibles;
 import com.selenium.uiautomation.annotations.PageObject;
 import com.selenium.uiautomation.base.BasePage;
 import org.openqa.selenium.TimeoutException;
