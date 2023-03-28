@@ -51,6 +51,7 @@ public class WebDriverConfig {
 		if (isHeadless)
 			chromeOptions.addArguments(DISABLE_GPU, HEADLESS);
 		chromeOptions.addArguments(START_MAXIMIZED);
+		chromeOptions.addArguments(REMOTE_ALLOW_ORIGINS);
 		return new ChromeDriver(chromeOptions);
 	}
 }

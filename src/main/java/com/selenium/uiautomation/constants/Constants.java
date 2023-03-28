@@ -21,5 +21,6 @@ public class Constants {
     public static final String IMAGE_PNG = "image/png";
     public static final String DISABLE_GPU = "--disable-gpu";
     public static final String HEADLESS = "--headless";
+    public static final String REMOTE_ALLOW_ORIGINS="--remote-allow-origins=*";
     public static final String START_MAXIMIZED = "start-maximized";
 }

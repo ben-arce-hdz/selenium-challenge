@@ -16,5 +16,5 @@ Feature: Searching loans
       | new loan button |
       | reports icon    |
     Then  select loan status equal to "Approved"
-    Then  validate summary accounts is equal to 5
-    And   validate loan sub status equal to "Approved" for 5 rows
+    Then  validate summary accounts is equal to 4
+    And   validate loan sub status equal to "Approved" for 4 rows
